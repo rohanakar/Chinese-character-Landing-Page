@@ -8,26 +8,26 @@
 
 .slideshow-image.slideshow-left {
     width: 20%;
-    opacity: 65%;
+    opacity: 0.65;
     padding: 5px;
     max-height: 50vh;
     display: flex;
     transition: all 500ms;
 }
 
-.slideshow-image.slideshow-main {
+.slideshow-image.slideshow-main.opacity {
     padding: 5px;
+    opacity: 1;
     max-height: 50vh;
     display: flex;
     transition: all 500ms;
-    opacity: 100%;
 }
 
 .slideshow-image.slideshow-right {
     width: 20%;
-    max-height: 50vh;
-    opacity: 65%;
+    opacity: 0.65;
     padding: 5px;
+    max-height: 50vh;
     display: flex;
     transition: all 500ms;
 }

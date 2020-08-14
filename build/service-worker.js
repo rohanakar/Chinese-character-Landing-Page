@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Chinese-character-Landing-Page/precache-manifest.74afd1fab2bda05d8d893779edcecd93.js"
+  "/Chinese-character-Landing-Page/precache-manifest.173bacda3ac0809f36f212480dc49aea.js"
 );
 
 self.addEventListener('message', (event) => {

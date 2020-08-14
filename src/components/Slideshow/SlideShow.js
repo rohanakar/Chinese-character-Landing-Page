@@ -42,11 +42,13 @@ export default class SlideShow extends React.Component {
         for (let i = 0; i <=8; i++) {
             var temp = 'slideshow-image';
             if (i === active - 1)
-                temp += ' slideshow-left'
+                temp += ' slideshow-left';
             if (i === active)
-                temp += ' slideshow-main'
+                temp += ' slideshow-main opacity';
             if (i === active + 1)
-                temp += ' slideshow-right'
+                temp += ' slideshow-right';
+            
+        
             op.push(
                 <div key={i+1} className={temp}>
                     <img alt="Loading..." src={require('../../assets/screenshots/' + (i) + '.jpg')} /></div>
