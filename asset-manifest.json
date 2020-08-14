@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Chinese-character-Landing-Page/static/css/main.ec6a29bf.chunk.css",
-    "main.js": "/Chinese-character-Landing-Page/static/js/main.5a2d0f93.chunk.js",
-    "main.js.map": "/Chinese-character-Landing-Page/static/js/main.5a2d0f93.chunk.js.map",
+    "main.js": "/Chinese-character-Landing-Page/static/js/main.ccedc415.chunk.js",
+    "main.js.map": "/Chinese-character-Landing-Page/static/js/main.ccedc415.chunk.js.map",
     "runtime-main.js": "/Chinese-character-Landing-Page/static/js/runtime-main.cbd01828.js",
     "runtime-main.js.map": "/Chinese-character-Landing-Page/static/js/runtime-main.cbd01828.js.map",
     "static/js/2.3f603bd9.chunk.js": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js",
     "static/js/2.3f603bd9.chunk.js.map": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js.map",
     "index.html": "/Chinese-character-Landing-Page/index.html",
-    "precache-manifest.b140021b7d38aac070b9f972182336ca.js": "/Chinese-character-Landing-Page/precache-manifest.b140021b7d38aac070b9f972182336ca.js",
+    "precache-manifest.4a10a59af7073d7d054e19c607fb1f64.js": "/Chinese-character-Landing-Page/precache-manifest.4a10a59af7073d7d054e19c607fb1f64.js",
     "service-worker.js": "/Chinese-character-Landing-Page/service-worker.js",
     "static/css/main.ec6a29bf.chunk.css.map": "/Chinese-character-Landing-Page/static/css/main.ec6a29bf.chunk.css.map",
     "static/js/2.3f603bd9.chunk.js.LICENSE.txt": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.cbd01828.js",
     "static/js/2.3f603bd9.chunk.js",
     "static/css/main.ec6a29bf.chunk.css",
-    "static/js/main.5a2d0f93.chunk.js"
+    "static/js/main.ccedc415.chunk.js"
   ]
 }
