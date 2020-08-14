@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Chinese-character/static/css/main.3504e839.chunk.css",
+    "main.js": "/Chinese-character/static/js/main.bf6ed52d.chunk.js",
+    "main.js.map": "/Chinese-character/static/js/main.bf6ed52d.chunk.js.map",
+    "runtime-main.js": "/Chinese-character/static/js/runtime-main.7900e69f.js",
+    "runtime-main.js.map": "/Chinese-character/static/js/runtime-main.7900e69f.js.map",
+    "static/js/2.3f603bd9.chunk.js": "/Chinese-character/static/js/2.3f603bd9.chunk.js",
+    "static/js/2.3f603bd9.chunk.js.map": "/Chinese-character/static/js/2.3f603bd9.chunk.js.map",
+    "index.html": "/Chinese-character/index.html",
+    "precache-manifest.ad684efc9c379c86644a55caacf9674a.js": "/Chinese-character/precache-manifest.ad684efc9c379c86644a55caacf9674a.js",
+    "service-worker.js": "/Chinese-character/service-worker.js",
+    "static/css/main.3504e839.chunk.css.map": "/Chinese-character/static/css/main.3504e839.chunk.css.map",
+    "static/js/2.3f603bd9.chunk.js.LICENSE.txt": "/Chinese-character/static/js/2.3f603bd9.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Chinese-character/static/media/0.260ff6d6.jpg",
+    "static/media/1.jpg": "/Chinese-character/static/media/1.74642c7e.jpg",
+    "static/media/2.jpg": "/Chinese-character/static/media/2.dbe089ec.jpg",
+    "static/media/3.jpg": "/Chinese-character/static/media/3.448e5cf9.jpg",
+    "static/media/4.jpg": "/Chinese-character/static/media/4.54894b04.jpg",
+    "static/media/5.jpg": "/Chinese-character/static/media/5.50b82578.jpg",
+    "static/media/6.jpg": "/Chinese-character/static/media/6.518c2711.jpg",
+    "static/media/7.jpg": "/Chinese-character/static/media/7.f9a360b3.jpg",
+    "static/media/8.jpg": "/Chinese-character/static/media/8.54894b04.jpg",
+    "static/media/9.jpg": "/Chinese-character/static/media/9.448e5cf9.jpg",
+    "static/media/a8282cd3-c7d0-48cc-8ceb-b766afb6754c.jpg": "/Chinese-character/static/media/a8282cd3-c7d0-48cc-8ceb-b766afb6754c.f42f93f1.jpg",
+    "static/media/dd972fa8-c32e-4a42-b423-f46b4d1d69a9.jpg": "/Chinese-character/static/media/dd972fa8-c32e-4a42-b423-f46b4d1d69a9.04408f0d.jpg",
+    "static/media/go.svg": "/Chinese-character/static/media/go.e84e598f.svg",
+    "static/media/icon.svg": "/Chinese-character/static/media/icon.95377ac4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7900e69f.js",
+    "static/js/2.3f603bd9.chunk.js",
+    "static/css/main.3504e839.chunk.css",
+    "static/js/main.bf6ed52d.chunk.js"
+  ]
+}
