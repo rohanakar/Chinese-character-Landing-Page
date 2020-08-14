@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Chinese-character-Landing-Page/static/css/main.3504e839.chunk.css",
+    "main.js": "/Chinese-character-Landing-Page/static/js/main.5a2d0f93.chunk.js",
+    "main.js.map": "/Chinese-character-Landing-Page/static/js/main.5a2d0f93.chunk.js.map",
+    "runtime-main.js": "/Chinese-character-Landing-Page/static/js/runtime-main.cbd01828.js",
+    "runtime-main.js.map": "/Chinese-character-Landing-Page/static/js/runtime-main.cbd01828.js.map",
+    "static/js/2.3f603bd9.chunk.js": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js",
+    "static/js/2.3f603bd9.chunk.js.map": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js.map",
+    "index.html": "/Chinese-character-Landing-Page/index.html",
+    "precache-manifest.40aa5f399a538b82e1268191642ea950.js": "/Chinese-character-Landing-Page/precache-manifest.40aa5f399a538b82e1268191642ea950.js",
+    "service-worker.js": "/Chinese-character-Landing-Page/service-worker.js",
+    "static/css/main.3504e839.chunk.css.map": "/Chinese-character-Landing-Page/static/css/main.3504e839.chunk.css.map",
+    "static/js/2.3f603bd9.chunk.js.LICENSE.txt": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Chinese-character-Landing-Page/static/media/0.260ff6d6.jpg",
+    "static/media/1.jpg": "/Chinese-character-Landing-Page/static/media/1.74642c7e.jpg",
+    "static/media/2.jpg": "/Chinese-character-Landing-Page/static/media/2.dbe089ec.jpg",
+    "static/media/3.jpg": "/Chinese-character-Landing-Page/static/media/3.448e5cf9.jpg",
+    "static/media/4.jpg": "/Chinese-character-Landing-Page/static/media/4.54894b04.jpg",
+    "static/media/5.jpg": "/Chinese-character-Landing-Page/static/media/5.50b82578.jpg",
+    "static/media/6.jpg": "/Chinese-character-Landing-Page/static/media/6.518c2711.jpg",
+    "static/media/7.jpg": "/Chinese-character-Landing-Page/static/media/7.f9a360b3.jpg",
+    "static/media/8.jpg": "/Chinese-character-Landing-Page/static/media/8.54894b04.jpg",
+    "static/media/9.jpg": "/Chinese-character-Landing-Page/static/media/9.448e5cf9.jpg",
+    "static/media/a8282cd3-c7d0-48cc-8ceb-b766afb6754c.jpg": "/Chinese-character-Landing-Page/static/media/a8282cd3-c7d0-48cc-8ceb-b766afb6754c.f42f93f1.jpg",
+    "static/media/dd972fa8-c32e-4a42-b423-f46b4d1d69a9.jpg": "/Chinese-character-Landing-Page/static/media/dd972fa8-c32e-4a42-b423-f46b4d1d69a9.04408f0d.jpg",
+    "static/media/go.svg": "/Chinese-character-Landing-Page/static/media/go.e84e598f.svg",
+    "static/media/icon.svg": "/Chinese-character-Landing-Page/static/media/icon.95377ac4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd01828.js",
+    "static/js/2.3f603bd9.chunk.js",
+    "static/css/main.3504e839.chunk.css",
+    "static/js/main.5a2d0f93.chunk.js"
+  ]
+}
