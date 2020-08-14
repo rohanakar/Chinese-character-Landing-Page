@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a8c17d1235332dd657755d495482daa",
+    "revision": "b3923bc1883e0b1479e08e6a961e83b2",
     "url": "/Chinese-character-Landing-Page/index.html"
   },
   {
-    "revision": "52574b4adecac00031a3",
-    "url": "/Chinese-character-Landing-Page/static/css/main.ec6a29bf.chunk.css"
+    "revision": "537c76405ebdc8e3ca24",
+    "url": "/Chinese-character-Landing-Page/static/css/main.9024806d.chunk.css"
   },
   {
     "revision": "ddd3cdcb9d199e28ee83",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Chinese-character-Landing-Page/static/js/2.3f603bd9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52574b4adecac00031a3",
-    "url": "/Chinese-character-Landing-Page/static/js/main.ccedc415.chunk.js"
+    "revision": "537c76405ebdc8e3ca24",
+    "url": "/Chinese-character-Landing-Page/static/js/main.5a1507cb.chunk.js"
   },
   {
     "revision": "efc85315b25042cfb813",
