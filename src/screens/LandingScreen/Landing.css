@@ -1,0 +1,101 @@
+.content {
+    background: linear-gradient(45deg, #119DA4, #04B46D, #FBF33C);
+    height: 99.5vh;
+}
+
+.text {
+    width: 96%;
+    height: 100%;
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -2%;
+}
+
+.heading {
+    font-family: 'Roboto';
+    text-align: right;
+}
+
+.subheading {
+    font-family: 'Roboto';
+    text-align: right;
+}
+
+.button {
+    text-align: center;
+    font-family: 'Josefin Slab';
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #5A730D;
+    width: 220px;
+    height: 70px;
+    display: flex;
+    border-radius: 8px;
+    justify-content: center;
+    margin-top: 50px;
+    transition: all 150ms;
+}
+
+.button:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 10px rgba(0, 0, 0);
+}
+
+.buttonText {
+    display: inline-flex;
+    font-family: 'Josefin Slab';
+    font-size: 22px;
+    line-height: 70px;
+    color: #9AF188;
+    cursor: pointer;
+}
+
+.buttonImage {
+    margin-left: 10px;
+    cursor: pointer;
+    transition: all 150ms;
+}
+
+.buttonImage:hover {
+    /* Firefox */
+    -webkit-transform: rotate(90deg) scale(1.5);
+    /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform: rotate(90deg) scale(1.5);
+    /* IE 9 */
+    transform: rotate(90deg) scale(1.5);
+    /* Firefox 16+, IE 10+, Opera */
+}
+
+@media (max-width: 650px) {
+    .button {
+        text-align: center;
+        font-family: 'Josefin Slab';
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #5A730D;
+        width: 150px;
+        height: 50px;
+        display: flex;
+        border-radius: 8px;
+        justify-content: center;
+        margin-bottom: -10%;
+        margin-top: 10%;
+        transition: all 150ms;
+    }
+    .buttonText {
+        display: inline-flex;
+        font-family: 'Josefin Slab';
+        font-size: 16px;
+        line-height: 50px;
+        color: #9AF188;
+        cursor: pointer;
+    }
+    .buttonImage {
+        margin-left: 10px;
+        cursor: pointer;
+        height: 25px;
+        transition: all 150ms;
+    }
+}

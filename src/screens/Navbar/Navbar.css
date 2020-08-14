@@ -1,0 +1,107 @@
+    .nav {
+        position: fixed;
+        z-index: 50;
+        background-color: #1B1C1B;
+        left: 0;
+        right: 0;
+        height: 45px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .nav-heading {
+        color: white;
+        line-height: 40px;
+        font-size: 35px;
+        padding-left: 25px;
+        width: 100px;
+        cursor: pointer;
+    }
+    
+    .box {
+        display: flex;
+        width: 500px;
+        height: 100%;
+        margin-left: auto;
+    }
+    
+    li {
+        display: flex;
+        flex: 1;
+        font-family: 'Josefin Slab';
+        font-weight: bold;
+        justify-content: center;
+        margin: auto auto;
+    }
+    
+    .link {
+        flex: 1;
+        display: flex;
+        margin: auto auto;
+        height: 70%;
+        font-size: 14px;
+        border-radius: 8px;
+        color: white;
+        cursor: pointer;
+        transition: all 0.2s;
+    }
+    
+    .active-home {
+        color: black;
+        background-color: #0EA396;
+        font-size: 18px;
+        box-shadow: 5px 5px 5px #0ea39781
+    }
+    
+    .active-details {
+        color: black;
+        background-color: #08AE7C;
+        font-size: 18px;
+        box-shadow: 5px 5px 5px #08ae7c81
+    }
+    
+    .active-overview {
+        color: black;
+        background-color: #ACA142;
+        font-size: 18px;
+        box-shadow: 5px 5px 5px #ACA14281
+    }
+    
+    .active-improvement {
+        color: black;
+        background-color: #AE8D08;
+        font-size: 18px;
+        box-shadow: 5px 5px 5px #AE8D0881
+    }
+    
+    .icon {
+        position: absolute;
+        top: 5px;
+        right: 20px;
+        z-index: 20;
+    }
+    
+    @media (min-width: 651px) {
+        .icon {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 650px) {
+        .box {
+            display: block;
+            flex-direction: column;
+            background-color: black;
+            height: 100vh;
+            transition: width 0.2s;
+        }
+        .link:nth-child(1) {
+            margin-top: 25vh;
+        }
+        .link {
+            height: 10vh;
+            width: 100%;
+            display: flex;
+            border-radius: 0;
+        }
+    }

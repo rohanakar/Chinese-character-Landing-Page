@@ -1,0 +1,115 @@
+.details-content {
+    position: relative;
+    background-color: #08AE7C;
+    min-height: 102vh;
+}
+
+.details-body {
+    display: flex;
+    width: 100%;
+    margin-top: 5vh;
+    justify-content: center;
+    height: 60vh;
+}
+
+.circle {
+    position: absolute;
+    right: 20px;
+    top: 35%;
+    z-index: 20;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #058f65;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 38px;
+    font-weight: bold;
+    transition: width 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+    overflow: hidden;
+}
+
+.circle:hover span {
+    display: none;
+}
+
+.circle:hover {
+    width: 120px;
+    border-radius: 6px;
+    box-shadow: 5px 5px rgba(0, 0, 0);
+}
+
+.circle:after {
+    opacity: 0;
+    content: '';
+}
+
+.circle:hover:after {
+    opacity: 1;
+    content: attr(cntnt);
+}
+
+.details-data {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    flex: 1;
+    margin-top: -8vh;
+}
+
+.details-heading {
+    font-family: 'Codystar';
+    text-align: center;
+    font-size: 80px;
+    margin-top: 7.5vh;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.details-subheading {
+    font-family: 'Josefin Slab';
+    text-align: left;
+    font-size: 22px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.details-subheading2 {
+    font-family: 'Josefin Slab';
+    flex: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9);
+    width: 100%;
+    transition: top 250ms ease-out;
+    transition-delay: 500ms;
+}
+
+.details-data2 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 24%;
+    left: 0;
+    right: 0;
+    padding: 1.5em;
+    bottom: 10%;
+    z-index: 2;
+    background-color: #19312ae1;
+    vertical-align: middle;
+    color: white;
+    text-align: center;
+    transition: right 500ms ease-out, bottom 500ms ease-out;
+}
+
+.elem {
+    padding-top: 0.5em;
+    line-height: 26px;
+}

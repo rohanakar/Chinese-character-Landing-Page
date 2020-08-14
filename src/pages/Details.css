@@ -1,0 +1,36 @@
+.details-content {
+    background-color: #08AE7C;
+    /* min-height: 102vh; */
+}
+
+.details-body {
+    display: flex;
+    width: 100%;
+    /* margin-top: 5vh; */
+}
+
+.details-data {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    flex: 1;
+}
+
+.details-heading {
+    font-family: 'Codystar';
+    text-align: center;
+    font-size: 80px;
+    margin-top: 12.5vh;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.details-subheading {
+    font-family: 'Josefin Slab';
+    text-align: justify;
+    font-size: 22px;
+    margin-top: 5vh;
+}

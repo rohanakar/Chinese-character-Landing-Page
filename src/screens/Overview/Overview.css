@@ -1,0 +1,47 @@
+.overview-content {
+    background-color: #ACA142;
+}
+
+.overview-heading {
+    font-family: 'Codystar';
+    text-align: center;
+    margin-top: 7.5vh;
+}
+
+.overview-cards {
+    font-family: 'Josefin slab';
+    margin-top: 7vh;
+}
+
+.overview-card li {
+    font-weight: normal;
+    justify-content: left;
+    padding: 10px;
+}
+
+.overview-card {
+    background-color: #BABE95;
+    width: 80%;
+    margin-left: auto;
+    font-size: 18px;
+    margin-right: auto;
+    text-align: left;
+    padding: 20px;
+    padding-bottom: 50px;
+    box-shadow: 12px 12px 6px rgba(0, 0, 0);
+    border: 1px solid #BDB5B5;
+}
+
+.card-heading {
+    font-size: 22px;
+    padding: 10px;
+    padding-bottom: 22px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+@media(max-width: 650px) {
+    .overview-card {
+        font-size: 14px;
+    }
+}

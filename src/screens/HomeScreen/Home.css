@@ -1,0 +1,74 @@
+.home-content {
+    background-color: #0EA396;
+    min-height: 100vh;
+}
+
+.home-text {
+    background-color: rgba(255, 255, 255, 0.48);
+    font-family: 'Josefin Slab';
+    padding: 50px 100px 50px 100px;
+}
+
+.home-heading {
+    font-size: 32px;
+    padding: 20px;
+}
+
+.home-subheading,
+.home-subheading-button {
+    display: flex;
+    flex: 1;
+    font-size: 18px;
+}
+
+.home-subheading {
+    font-size: 22px;
+}
+
+.home-button {
+    text-align: center;
+    font-family: 'Josefin Slab';
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #17573D;
+    width: 230px;
+    height: 70px;
+    display: flex;
+    border-radius: 2px;
+    justify-content: center;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.home-button:hover {
+    transform: scale(1.1);
+    box-shadow: 5px 10px rgba(0, 0, 0);
+}
+
+@media (max-width: 700px) {
+    .home.buttonText {
+        font-size: 14px;
+        line-height: 50px;
+    }
+    .home-heading {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .home-subheading {
+        font-size: 18px;
+        flex-direction: column;
+        padding: 0px;
+    }
+    .home-subheading-button {
+        font-size: 14px;
+        padding: 5px;
+    }
+    .home-text {
+        padding: 20px;
+    }
+    .home-button {
+        width: 180px;
+        height: 50px;
+    }
+}

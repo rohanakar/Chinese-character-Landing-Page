@@ -1,0 +1,30 @@
+.improvement-content {
+    background-color: #AE8D08;
+    min-height: 100vh;
+    position: relative;
+}
+
+.improvement-heading {
+    font-family: 'Codystar';
+    text-align: center;
+    margin-top: 7.5vh;
+}
+
+.impovement-details {
+    width: 80%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+    margin-top: 7.5vh;
+    font-family: 'Josefin slab';
+    font-size: 22px;
+    padding: 20px;
+    line-height: 1.25em;
+}
+
+@media(max-width:650px) {
+    .impovement-details {
+        font-size: 14px;
+    }
+}

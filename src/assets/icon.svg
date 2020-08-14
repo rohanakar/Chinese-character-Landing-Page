@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1063.816" height="669.045" viewBox="0 0 1063.816 669.045">
+  <g id="Group_43" data-name="Group 43" transform="translate(-224.177 -454.876)">
+    <line id="Line_10" data-name="Line 10" y1="145.498" transform="translate(621.312 978.058)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <line id="Line_18" data-name="Line 18" y1="245.329" x2="5.31" transform="translate(429.084 878.227)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <line id="Line_19" data-name="Line 19" y1="55.226" x2="2.124" transform="translate(233.67 1068.331)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <line id="Line_13" data-name="Line 13" y1="313.299" transform="translate(1007.891 810.257)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <line id="Line_11" data-name="Line 11" y1="208.158" x2="4.248" transform="translate(813.539 915.398)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <line id="Line_12" data-name="Line 12" y1="448.177" transform="translate(1200.119 675.379)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="19"/>
+    <path id="Path_510" data-name="Path 510" d="M2412.755,6876.1l208.3-152,210.173,152,557.334-371.557" transform="translate(-2182 -5973.553)" fill="none" stroke="rgba(0,0,0,0.11)" stroke-width="13"/>
+    <g id="Path_511" data-name="Path 511" transform="translate(1243.454 454.876) rotate(57)" fill="rgba(0,0,0,0.11)">
+      <path d="M40.888,0,81.776,75.4H0Z" stroke="none"/>
+      <path d="M 40.88821029663086 2.097831726074219 L 1.6798095703125 74.40422821044922 L 80.09661102294922 74.40422821044922 L 40.88821029663086 2.097831726074219 M 40.88821029663086 -7.62939453125e-06 L 81.77642059326172 75.40422821044922 L 0 75.40422821044922 L 40.88821029663086 -7.62939453125e-06 Z" stroke="none" fill="rgba(0,0,0,0.11)"/>
+    </g>
+  </g>
+</svg>
